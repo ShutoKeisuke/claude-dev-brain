@@ -1,0 +1,10 @@
+{
+  "name": "cdb",
+  "description": "Claude Dev Brain - Web idea generation workflow",
+  "version": "0.0.1",
+  "author": {
+    "name": "shuto-keisuke"
+  },
+  "repository": "https://github.com/shuto-keisuke/claude-dev-brain",
+  "keywords": ["claude-code", "idea-generation", "web-development", "workflow"]
+}

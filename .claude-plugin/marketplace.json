@@ -1,0 +1,18 @@
+{
+  "name": "claude-dev-brain",
+  "description": "Development marketplace for Claude Dev Brain",
+  "owner": {
+    "name": "shuto-keisuke"
+  },
+  "plugins": [
+    {
+      "name": "cdb",
+      "description": "Claude Dev Brain - Web idea generation workflow",
+      "version": "0.0.1",
+      "source": "./",
+      "author": {
+        "name": "shuto-keisuke"
+      }
+    }
+  ]
+}
