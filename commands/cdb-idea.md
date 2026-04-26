@@ -1,33 +1,29 @@
 # /cdb:idea
 
-Start the Claude Dev Brain web development idea workflow.
+Web開発案出しのワークフローを開始します。
 
-## Goal
+# 目的
 
-Generate web development ideas through a structured workflow.
+ユーザーの方向性を整理し、Web開発案を生成・評価し、採用候補を作ること。
 
-## Workflow
+# ワークフロー
 
-1. Ask direction questions one by one
-2. Summarize the user's constraints
-3. Generate 3 web app ideas
-4. Evaluate each idea
-5. Prepare a selected idea for output
+以下の順序で処理を行う：
 
-## Instructions
+1. direction-interviewer を使って方向性をヒアリング
+2. ヒアリング結果を整理・要約
+3. Web開発案を3つ生成
+4. 各案を評価
+5. 採用候補を提示
 
-When this command is executed:
+# 実行ルール
 
-1. Start by asking only one question.
-2. Do not generate ideas immediately.
-3. First ask the user to choose the idea direction.
+- 最初に必ず direction-interviewer を使用する
+- ヒアリングが完了するまでアイデアは出さない
+- ヒアリングは1問ずつ行う
+- ユーザーの回答に応じて柔軟に進める
+- 不要な質問は省略する
 
-Ask:
+# 最初のアクション
 
-> どの方向性でWeb開発案を探しますか？
->
-> 1. 海外にあるが日本に少ないサービス
-> 2. 最近のトレンド起点
-> 3. 低予算で作れる個人開発
-> 4. BtoB SaaS
-> 5. 自由入力
+direction-interviewer を使用して、方向性ヒアリングを開始してください。
