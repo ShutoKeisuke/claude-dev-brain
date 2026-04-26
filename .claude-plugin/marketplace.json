@@ -2,7 +2,7 @@
   "name": "claude-dev-brain",
   "description": "Development marketplace for Claude Dev Brain",
   "owner": {
-    "name": "shuto-keisuke"
+    "name": "ShutoKeisuke"
   },
   "plugins": [
     {
@@ -11,7 +11,7 @@
       "version": "0.0.1",
       "source": "./",
       "author": {
-        "name": "shuto-keisuke"
+        "name": "ShutoKeisuke"
       }
     }
   ]

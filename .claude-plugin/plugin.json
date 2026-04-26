@@ -3,8 +3,8 @@
   "description": "Claude Dev Brain - Web idea generation workflow",
   "version": "0.0.1",
   "author": {
-    "name": "shuto-keisuke"
+    "name": "ShutoKeisuke"
   },
-  "repository": "https://github.com/shuto-keisuke/claude-dev-brain",
+  "repository": "https://github.com/ShutoKeisuke/claude-dev-brain",
   "keywords": ["claude-code", "idea-generation", "web-development", "workflow"]
 }
